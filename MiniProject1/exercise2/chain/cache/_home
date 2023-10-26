@@ -1,0 +1,11 @@
+        HTTP/1.1 200 OK
+
+        <html>
+            <head>
+                <title>Server</title><
+            /head>
+            <body>
+                <h1>This is a response from the TCP server!</h1>
+            </body>
+        </html>
+        cached response
