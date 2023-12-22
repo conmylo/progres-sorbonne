@@ -1,7 +1,8 @@
 # Description of the project:
 
-##### Nadir Shikhli - 21219384
+### Collaborators:
 ##### Konstantinos Mylonas - 21306683
+##### Nadir Shikhli - 21219384
 
 ### Exercise 1: TCP Relay
 
